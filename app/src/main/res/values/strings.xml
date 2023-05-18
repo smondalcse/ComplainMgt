@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Help Me</string>
+    <string name="api_url">http://172.16.1.131/helpme/ajoy/helpme/api/v1/</string>
+</resources>
